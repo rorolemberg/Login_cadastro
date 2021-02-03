@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SiteEdiRol.iml" filepath="$PROJECT_DIR$/.idea/SiteEdiRol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SiteEdiRol.SiteEdiRol.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SiteEdiRol.SiteEdiRol.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SiteEdiRol.SiteEdiRol.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SiteEdiRol.SiteEdiRol.test.iml" />
     </modules>
   </component>
 </project>

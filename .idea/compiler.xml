@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="SiteEdiRol.SiteEdiRol.main" target="1.8" />
-      <module name="SiteEdiRol.SiteEdiRol.test" target="1.8" />
+      <module name="SiteEdiRol.SiteEdiRol.main~1" target="1.8" />
+      <module name="SiteEdiRol.SiteEdiRol.test~1" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

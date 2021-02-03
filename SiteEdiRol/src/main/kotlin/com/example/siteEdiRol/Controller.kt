@@ -5,8 +5,11 @@ import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.web.bind.annotation.RestController
 
 @RestController
-@RequestMapping("/home")
+@RequestMapping("/validar")
 class Controller {
-    @GetMapping("/teste")
-    fun sum(n1: Int, n2: Int) = n1 + n2
+    @GetMapping("/login")
+    fun login(n1: Int, n2: Int) = n1 + n2
+
+    @GetMapping("/login2")
+    fun logOut(n1: Int, n2: Int) = n1 + n2
 }
